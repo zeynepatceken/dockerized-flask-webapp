@@ -5,7 +5,7 @@ This is used in the demonstration of the development of Ansible Playbooks.
   
 Below are the steps required to get this working on a base linux system.
   
-  - **Install all required dependencies**
+- **Install all required dependencies**
   - **Install and Configure Web Server**
   - **Start Web Server**
    
@@ -13,8 +13,8 @@ Below are the steps required to get this working on a base linux system.
   
 Python and its dependencies
 ```bash
-  apt-get install -y python3 python3-setuptools python3-dev build-essential python3-pip default-libmysqlclient-dev
-  ```
+apt-get install -y python3 python3-setuptools python3-dev build-essential python3-pip default-libmysqlclient-dev
+```
    
 ## 2. Install and Configure Web Server
 
